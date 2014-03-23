@@ -1,7 +1,7 @@
 {
   "name": "verb-readme-templates",
   "description": "Reame templates for Verb, the markdown documentation generator with zero-configuration required.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/assemble/verb-readme-templates",
   "author": {
     "name": "Jon Schlinkert",
